@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lesbianunix.dev/about/</loc>
+    <lastmod>2021-02-17T06:18:03-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lesbianunix.dev/tags/hello/</loc>
+    <lastmod>2021-02-17T06:09:04-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lesbianunix.dev/posts/helloworld/</loc>
     <lastmod>2021-02-17T06:09:04-07:00</lastmod>
   </url>
@@ -18,11 +28,17 @@
   </url>
   
   <url>
-    <loc>https://lesbianunix.dev/categories/</loc>
+    <loc>https://lesbianunix.dev/tags/</loc>
+    <lastmod>2021-02-17T06:09:04-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lesbianunix.dev/tags/</loc>
+    <loc>https://lesbianunix.dev/tags/unix/</loc>
+    <lastmod>2021-02-17T06:09:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lesbianunix.dev/categories/</loc>
   </url>
   
 </urlset>
