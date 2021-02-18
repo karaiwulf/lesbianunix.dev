@@ -84,4 +84,8 @@ paginate = 5
         identifier = "twitch"
         name = "Twitch"
         url = "https://twitch.tv/karaiwulf"
+      [[languages.en.menu.main]]
+        identifier = "mastodon"
+        name = "Mastodon"
+        url = "https://cybre.space/web/accounts/107844"
 
