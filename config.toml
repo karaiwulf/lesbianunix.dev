@@ -72,4 +72,16 @@ paginate = 5
         identifier = "posts"
         name = "Posts"
         url = "/posts"
+      [[languages.en.menu.main]]
+        identifier = "git"
+        name = "Git"
+        url = "https://git.kararou.space/karaiwulf"
+      [[languages.en.menu.main]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/karaiwulf"
+      [[languages.en.menu.main]]
+        identifier = "twitch"
+        name = "Twitch"
+        url = "https://twitch.tv/karaiwulf"
 
