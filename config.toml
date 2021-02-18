@@ -87,5 +87,5 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "mastodon"
         name = "Mastodon"
-        url = "https://cybre.space/web/accounts/107844"
+        url = "https://cybre.space/@spicywolf"
 
