@@ -1,12 +1,12 @@
----
-title: "About"
-date: 2021-02-17T06:18:03-07:00
-draft: false
+--- 
+title: "About" 
+date: 2021-02-17T06:18:03-07:00 
+draft: false 
 ---
 
 # About
 
-Hi, I'm Kararou Ren!
+Hi, I am Kararou Ren! 
 
 I am a transfemme, incredibly gay, UNIX developer.  I like contributing to Free
 and Open Source Software projects, such as Illumos.  Blooming Rustacean and
@@ -20,4 +20,6 @@ on [SmartOS](https://wiki.smartos.org) with the accompanying
 [Triton](https://github.com/joyent/triton) management software.
 
 
+{{< image src="/img/profpic.jpg" alt="Ren" style="border-radius: 10px;" >}}
 # Let me tinker in your kernel!
+

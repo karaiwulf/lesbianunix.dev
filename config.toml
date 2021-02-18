@@ -1,6 +1,7 @@
 baseURL = "https://lesbianunix.dev/"
-title = "Lesbian UUNIX Developer"
+title = "Lesbian UNIX Developer"
 
+baseurl = "/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
