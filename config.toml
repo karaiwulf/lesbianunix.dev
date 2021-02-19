@@ -15,7 +15,7 @@ paginate = 5
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = false
@@ -70,9 +70,9 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts"
+        identifier = "stories"
+        name = "stories"
+        url = "https://plotarmour.fail/"
       [[languages.en.menu.main]]
         identifier = "git"
         name = "Git"
