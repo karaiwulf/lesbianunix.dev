@@ -1,3 +1,4 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = https://git.kararou.space/karaiwulf/hugo-theme-terminal.git
+	branch = master
