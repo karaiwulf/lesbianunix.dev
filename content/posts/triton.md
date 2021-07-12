@@ -6,7 +6,7 @@ authorTwitter = "karaiwulf" #do not include @
 cover = ""
 tags = ["UNIX", "SmartOS", "Triton", "casual", "guide"]
 keywords = ["Triton", "Data-Center"]
-description = "An overview of the inner workings of Joyent's Triton DataCenter."
+description = "A guide of the perils of Joyent's Triton DataCenter."
 showFullContent = false
 draft = false
 +++
