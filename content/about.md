@@ -4,11 +4,13 @@ date: 2021-02-17T06:18:03-07:00
 draft: false 
 ---
 
-Hi, I am Kararou Ren! 
+Hi, I am Kararou Ren!  My name is often stylized as Ræn and pronounced as rain,
+like the weather!
 
 {{< image src="/img/profpic.jpg" alt="Ren" style="border-radius: 10px;" >}}
 
-I am a transfemme hacker.  My prounouns are `she/her` and `it/its`.
+I am a transfemme hacker.  My prounouns are [she/her](https://pronoun.is/she) 
+and [it/its](https://pronoun.is/it).
 
 My specialty is Information Security.  I can be both blue and red team.  I am
 also well versed in the realm of Software Engineering and I have dabled in
