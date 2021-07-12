@@ -12,11 +12,12 @@ like the weather!
 I am a transfemme hacker.  My prounouns are [she/her](https://pronoun.is/she) 
 and [it/its](https://pronoun.is/it).
 
-My specialty is Information Security.  I can be both blue and red team.  I am
-also well versed in the realm of Software Engineering and I have dabled in
-Hardware Engineering.
+My specialty is information security.  I can be both blue and red team.  I am
+versed in the realm of software engineering, but also have some experience with
+hardware hacking, design, and layout.
 
-I have development experience with C, C++, Go, Rust, Python, and Lua.
+The programming languages I've worked with the most are C, Go, Rust, and 
+Python.  In no particular order, but I happen to really like Rust and C.
 
 I have OS experience with [Illumos](https://illumos.org/),
 [SmartOS](https://wiki.smartos.org/), [FreeBSD](https://www.freebsd.org/),
