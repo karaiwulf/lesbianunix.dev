@@ -8,7 +8,7 @@ tags = ["UNIX", "SmartOS", "Triton", "casual", "guide"]
 keywords = ["Triton", "Data-Center"]
 description = "An overview of the inner workings of Joyent's Triton DataCenter."
 showFullContent = false
-draft = true
+draft = false
 +++
 
 ## A Little Background
