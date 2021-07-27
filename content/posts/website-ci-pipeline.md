@@ -155,7 +155,7 @@ EOF
 chmod +x /opt/local/bin/auto-update.sh
 npm install -g smfgen
 smfgen -i site-update -l 'Example Site Auto-Update Service' \
--s '/opt/local/bin/auto-update.sh' -d /opt/www-fakewebsite \
+-s '/opt/local/bin/auto-update.sh' -d /opt/hugosite \
 -eHOME=/root > /tmp/update.xml
 svccfg import /tmp/update.xml
 
