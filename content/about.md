@@ -42,3 +42,7 @@ in a [SmartOS](https://wiki.smartos.org) container.
 
 # Let me tinker in your kernel!
 
+Oh, and here's a snapshot of my liked songs on Spotify.
+
+{{< spotify type="playlist" id="7n8JVq9hjgWktH98OMfTQZ" >}}
+
