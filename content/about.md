@@ -9,8 +9,7 @@ like the weather!
 
 {{< image src="/img/profpic.jpg" alt="Ren" style="border-radius: 10px;" >}}
 
-I am a transfemme hacker.  My prounouns are [she/her](https://pronoun.is/she) 
-and [it/its](https://pronoun.is/it).
+I am a transfemme hacker.  My prounouns are [fæ/fær](https://pronoun.is/fae).
 
 My specialty is information security.  I can be both blue and red team.  I am
 versed in the realm of software engineering, but also have some experience with
