@@ -8,7 +8,7 @@ tags = ["oxide", "mxshift"]
 keywords = ["oxide", "mxshift"]
 description = "A reflection on a conversation I had with Rick Altherr."
 showFullContent = false
-draft = true
+draft = false
 +++
 
 I don't know what to do or how to feel, so we're gonna take this slow.  We'll
