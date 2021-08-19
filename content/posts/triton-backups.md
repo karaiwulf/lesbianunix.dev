@@ -1,7 +1,7 @@
 +++
 title = "Triton Backups"
 date = "2021-08-01T20:58:25-06:00"
-author = "Ren Kararou"
+author = "Kararou Ren"
 authorTwitter = "karaiwulf" #do not include @
 cover = ""
 tags = ["triton", "backups"]
