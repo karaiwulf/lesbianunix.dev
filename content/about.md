@@ -7,8 +7,6 @@ draft: false
 Hi, I am Kararou Ren!  My name is often stylized as Ræn and pronounced as rain,
 like the weather!
 
-{{< image src="/img/profpic.jpg" alt="Ren" style="border-radius: 10px;" >}}
-
 I am a transfemme hacker.  My prounouns are [fæ/fær](https://pronoun.is/fae).
 
 My specialty is information security.  I can be both blue and red team.  I am
