@@ -1,7 +1,7 @@
 ---
 title: "Krypt0"
 date: 2021-08-24T04:23:53-06:00
-draft: true
+draft: false
 ---
 
 ## Krypt0
