@@ -15,11 +15,13 @@ You can read more about each component below.  But before, a quick note on
 naming... each of these sub-projects is named after a fictional lesbian.  I
 find it very fitting.
 
+```
 emily - The backend, job manager, auth-source, etc.
 korra - A portscanner service
 helena - The web-based front end
 adora - the cli-based front end
 jill - An exploit and payload compiler
+```
 
 ### Emily
 
