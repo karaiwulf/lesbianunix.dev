@@ -26,17 +26,6 @@ haven't had terribly big projects, nor do I feel like anything I've done is all
 that exemplary.  But here we are.  I have to think really hard about what I
 want to write over the next few posts.
 
-### Work Samples
-
-```
-The ultimate measure of an engineer is our work. Please submit at least one
-work sample (and no more than three), providing links if/as necessary. This
-should be work that best reflects you as an engineer -- work that you are proud
-of or you feel is otherwise representative of who you aspire to be as an
-engineer.  If this work is entirely proprietary, please describe it as fully as
-you can, providing necessary context.
-```
-
 So I have a few projects I could talk about here.  Both professional and
 personal, but none that I'm particularly proud of.  If I'm honest with myself,
 I'm not exactly much of an engineer.  Ironic, given the name of my blog, I
@@ -51,7 +40,18 @@ projects are "inspired", none of them are particularly note worthy.  And all of
 my software projects have been, well, related to my education at best, or
 dysfunctional half-baked ideas that don't pan out well at worst.
 
-Except for one.
+Except for one...
+
+### Work Samples
+
+```
+The ultimate measure of an engineer is our work. Please submit at least one
+work sample (and no more than three), providing links if/as necessary. This
+should be work that best reflects you as an engineer -- work that you are proud
+of or you feel is otherwise representative of who you aspire to be as an
+engineer.  If this work is entirely proprietary, please describe it as fully as
+you can, providing necessary context.
+```
 
 During my job where I wore every hat possible, I played at developer.  Nothing
 serious.  I wrote high performance Python (believe me, words I didn't think I'd
@@ -88,12 +88,11 @@ been promoted.  He was, after all, a data-scientist, why not leverage him?  I
 had only half of my target dataset collected, around 5000 captcha images, when
 I'd been fired.
 
-Lessons learned... don't be trans, don't give a company free work, and
-definitely don't accidentally miss a meeting, and always ask for calendar
-invites to meetings your boss decides you have to attend outside of your work
-hours.
+Lessons learned... don't be trans, don't give a company free work, definitely
+don't accidentally miss a meeting, and always ask for calendar invites to
+meetings your boss decides you have to attend outside of your work hours.
 
 Remind me that if I decide to apply for Oxide in any capacity I need to come
 back and clean these up so they sound more professional and... actually give
-explanation instead of being a little vague.
+explanation instead of being a little (intentionally) vague.
 

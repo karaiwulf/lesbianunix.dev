@@ -53,7 +53,7 @@ sdcadm post-setup $service -s headnode
 ```
 
 The new service instance should setup.  It will have a new IP address, but as
-long as that isn't an issue, you should be goode.  Otherwise, you'll have to
-use `sdc-sapi` to update the IP addresses of the service records, and
-`sdc-vmadm` to update the actual nics themselves.
+long as that isn't an issue, you should be good.  Otherwise, you'll have to use
+`sdc-sapi` to update the IP addresses of the service records, and `sdc-vmadm`
+to update the actual nics themselves.
 
