@@ -10,10 +10,10 @@ like the weather!
 I am a transfemme hacker.  My prounouns are [fæ/fær](https://pronoun.is/fae).
 
 My specialty is information security.  I can be both blue and red team.  I am
-versed in the realm of software engineering, but also have some experience with
-hardware hacking, design, and layout.
+(not very) versed in the realm of software engineering, but also have some
+experience with hardware hacking, design, and layout.
 
-The programming languages I've worked with the most are C, Go, Rust, and 
+The programming languages I've worked with the most are C, Go, Rust, and
 Python.  In no particular order, but I happen to really like Rust and C.
 
 I have OS experience with [Illumos](https://illumos.org/),
