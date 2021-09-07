@@ -5,10 +5,8 @@ author = "Kararou Ren"
 authorTwitter = "karaiwulf" #do not include @
 cover = ""
 tags = ["asm3", "how-to"]
-keywords = ["install", "asm3", "animal shelter", "http", "web-management",
-"manager", "animal", "shelter"]
-description = "A stopgap how-to on installing the asm3, as the current install
-guide is behind a paywall."
+keywords = ["install", "asm3", "animal shelter", "http", "web-management", "manager", "animal", "shelter"]
+description = "A stopgap how-to on installing the asm3, as the current install guide is behind a paywall."
 showFullContent = false
 draft = false
 +++
