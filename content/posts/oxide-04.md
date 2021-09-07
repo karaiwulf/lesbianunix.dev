@@ -58,3 +58,9 @@ management system at work sanitized and in a state of deliverable.  They are
 about disk paritioning using `parted`.  I'll update this article when I have
 them in hand, but for now... You just get to live with the above.
 
+UPDATE: My boss approved the use of these KB articles: [Working with a Blank
+Drive in
+Linux](https://docs.google.com/document/d/1T-1EcYnGRUzCfd3qNYEXiWdH8MR7zzETysw1RztaGwo/edit?usp=sharing),
+and [Working with an Already Partitioned Drive in
+Linux](https://docs.google.com/document/d/1-aPSxmrL6_xyeA3Q2Nd0JKh0239V-U1ZQ0dqK16g3ho/edit?usp=sharing).
+
