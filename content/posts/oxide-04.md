@@ -12,12 +12,11 @@ draft = false
 +++
 
 Oh for the love of whatever gods may exist.  All of my writing is here.  Or in
-the knoledge management system at work.  Its really not that technical at all.
+the knowledge management system at work.  Its really not that technical at all.
 This feels far more doomed than I thought.
 
 As I said in my last post, I'm really not that much of a developer.  I can do
 documentation fine, even if its a bit lackluster, but I do appreciate code with
-documentation in the sources.  And I even further enjoy code with well written
 documentation in the sources.  I strive for this, but I haven't had the chance
 or opportunity to pull my own projects from anything more than simple proof of
 concepts with little documentation.
