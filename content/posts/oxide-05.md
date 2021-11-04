@@ -1,6 +1,6 @@
 +++
 title = "0x1DE - Analysis Sample"
-date = "2021-09-06T08:28:47-06:00"
+date = "2021-11-04T00:00:00-06:00"
 author = "Kararou Ren"
 authorTwitter = "karaiwulf" #do not include @
 cover = ""
@@ -8,7 +8,7 @@ tags = ["oxide", "candidate-materials"]
 keywords = ["oxide", "candidate-materials"]
 description = "Putting on our science hats and entering the foreign world of Analysis"
 showFullContent = false
-draft = true
+draft = false
 +++
 
 Oh yes.  The much more familiar world of analysis.  Given I've been working as
@@ -21,9 +21,9 @@ platform).  Nor will I say anything about the reverse engineering test that was
 given as a final for Systems 500 in school, though it was very much a fun test
 (remember that `objdump` is *always* your friend on Linux systems).
 
-Instead, I will be recounting the tale of a simple bug in coreutils, because
-honestly its the most interesting thing I've gotten to look at in the last four
-years of my life.
+I suppose I can talk about the many times that I've accidentally broken Triton
+by sheer force of will.  And updates.  Triton is the most frustrating thing to
+update.
 
 # Analysis Samples
 
@@ -39,8 +39,17 @@ in which you analyzed system misbehavior, including as much technical detail as
 you can recall.
 ```
 
-When a customer calls in asking why the "Avail" and "Use%" in `df` don't
-calculate to be the same thing, the number of reasons could be myriad.  I was
-working as the UNIX/Linux SME consult on this particular ticket, but I ended up
-doing most of the troubleshooting work, too.  
+Every single time I try to do anything with this I end up just feeling bad.
+Honestly, pathological system misbehaviour is something I'm so entrenched in
+that it just feels normal at this point.  I've had to track down code paths
+from end point down to system call.  I've done this so much and so frequently
+that I'm honestly tired of looking through code.  I just spent a month
+disconnected and getting back into the flow of debugging and analysis.
+
+I'm going to be honest, I've been debugging my Triton standup for the last
+three days, almost all in one block, if not for a two hour jaunt to the store
+and sleeping.  I was able to get the cluster working again, sortof.
+Provisioning from cloudapi doesn't work, but provisioning from adminui does.  I
+think I'm just going to reprovision a cloudapi to fix it.  I can't be bothered
+to keep doing this, getting the blood and guts of Triton all over my terminal.
 
