@@ -43,8 +43,8 @@ paginate = 5
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "karaiwulf"
-  site = "karaiwulf"
+  creator = ""
+  site = ""
 
 [languages]
   [languages.en]
@@ -78,13 +78,9 @@ paginate = 5
         name = "Git"
         url = "https://git.kararou.space/karaiwulf"
       [[languages.en.menu.main]]
-        identifier = "twitter"
-        name = "Twitter"
-        url = "https://twitter.com/karaiwulf"
-      [[languages.en.menu.main]]
-        identifier = "twitch"
-        name = "Twitch"
-        url = "https://twitch.tv/karaiwulf"
+        identifier = "github"
+        name = "Github"
+        url = "https://github.com/karaiwulf"
       [[languages.en.menu.main]]
         identifier = "mastodon"
         name = "Mastodon"
