@@ -39,7 +39,3 @@ GPG ID: B0BA4EEC0714F8E6 [direct](../ren.asc)
 
 Matrix: @spicywolf:matrix.kararou.space
 
-Oh, and here's a snapshot of my liked songs on Spotify.
-
-{{< spotify type="playlist" id="7n8JVq9hjgWktH98OMfTQZ" >}}
-
