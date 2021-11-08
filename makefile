@@ -12,3 +12,6 @@ html: pull
 gg: pull
 	./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
 
+clean:
+	rm -rf public/ public-gg/
+
