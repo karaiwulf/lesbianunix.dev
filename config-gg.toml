@@ -119,7 +119,7 @@ metaDataFormat  = "toml"
 disableRSS      = true
 disableSitemap  = true
 disable404      = true
-enableEmoji     = false
+enableEmoji     = true
 
 # Directories used for Gopher and Gemini generation
 layoutDir       = "layouts-gg"
@@ -136,11 +136,11 @@ canonifyURLs    = true
   suffixes      = ["txt"]
 
 [outputs]
-  home          = ["gemini", "gopher"]
-  section       = ["gemini", "gopher"]
-  taxonomy      = ["gemini", "gopher"]
-  term          = ["gemini", "gopher"]
-  page          = ["gemini", "gopher"]
+  home          = ["gemini"]
+  section       = ["gemini"]
+  taxonomy      = ["gemini"]
+  term          = ["gemini"]
+  page          = ["gemini"]
 
 [outputFormats]
 [outputFormats.gopher]
