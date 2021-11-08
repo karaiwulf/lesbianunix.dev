@@ -1,6 +1,6 @@
 # Build variables
 
-all: html gg
+all: html gemini
 
 pull:
 	git pull
@@ -9,8 +9,11 @@ pull:
 html: pull
 	hugo
 
-gg: pull
+gemini: pull
 	./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
+
+alphamethyl: pull
+	hugo --config config-am.toml
 
 clean:
 	rm -rf public/ public-gg/
