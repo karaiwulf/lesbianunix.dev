@@ -16,7 +16,7 @@ alphamethyl: pull
 	hugo --config ./config-am.toml
 
 package: all
-	[ ! -d ./pkg ] && mkdir ./pkg
+	if [ ! -d ./pkg ]; then mkdir ./pkg; fi
 	cd ./public; tar czvf ../pkg/www-lesbianunix.dev.tgz ./*
 	cd ./public-gg/gemini; tar czvf ../../pkg/gemini-lesbianunix.dev.tgz ./*
 
