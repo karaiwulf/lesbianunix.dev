@@ -6,10 +6,10 @@ pull:
 	git pull
 	git submodule update --init --recursive
 
-html: pull
+html:
 	hugo
 
-gemini: pull
+gemini:
 	python3 ./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
 
 alphamethyl: pull
