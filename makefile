@@ -17,8 +17,8 @@ alphamethyl: pull
 
 package: all
 	[ ! -d ./pkg ] && mkdir ./pkg
-	tar czvf ./pkg/www-lesbianunix.dev.tgz ./public/*
-	tar czvf ./pkg/gemini-lesbianunix.dev.tgz ./public-gg/gemini/*
+	cd ./public; tar czvf ../pkg/www-lesbianunix.dev.tgz ./*
+	cd ./public-gg/gemini; tar czvf ../../pkg/gemini-lesbianunix.dev.tgz ./*
 
 clean:
 	rm -rf ./public/ ./public-gg/
