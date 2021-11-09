@@ -10,7 +10,7 @@ html: pull
 	hugo
 
 gemini: pull
-	./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
+	python3 ./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
 
 alphamethyl: pull
 	hugo --config ./config-am.toml
