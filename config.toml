@@ -72,6 +72,10 @@ ignoreFiles = ["-gg.md$"]
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+        indentifier = "gemini"
+        name = "Gemini"
+        url = "gemini://lesbianunix.dev"
+      [[languages.en.menu.main]]
         identifier = "stories"
         name = "Stories"
         url = "https://plotarmour.fail/"

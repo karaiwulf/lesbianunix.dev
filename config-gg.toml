@@ -20,7 +20,7 @@ ignoreFiles =  [".html$"]
     copyright = "copyright 2021"
 
     # Information about the site. Placed after the description (below).
-    info = "The ramblings of a lesbian unix developer"
+    info = "The ramblings of a lesbian UNIX developer"
 
     # Text of optional link to main page (see includeReturnHome below)
     returnHome = "Return to main page"
@@ -94,6 +94,10 @@ ignoreFiles =  [".html$"]
     name   = "About"
     weight = 3
     url    = "/about"
+[[menu.main]]
+    name   = "Web"
+    weight = 4
+    url    = "https://lesbianunix.dev"
 
 # Social links will be placed in the pages indicated in includeSocial
 [[params.social]]
