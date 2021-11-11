@@ -55,7 +55,7 @@ ignoreFiles = ["-gg.md$"]
     subtitle = "The homespace of a lesbian UNIX developer."
     owner = "Kararou Ren"
     keywords = "UNIX"
-    copyright = "© 2021 Kararou Ren"
+    copyright = "Gemini at gemini://lesbianunix.dev"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -71,14 +71,6 @@ ignoreFiles = ["-gg.md$"]
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languages.en.menu.main]]
-        indentifier = "gemini"
-        name = "Gemini"
-        url = "gemini://lesbianunix.dev"
-      [[languages.en.menu.main]]
-        identifier = "stories"
-        name = "Stories"
-        url = "https://plotarmour.fail/"
       [[languages.en.menu.main]]
         identifier = "git"
         name = "Git"

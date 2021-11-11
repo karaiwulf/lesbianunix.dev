@@ -13,7 +13,7 @@ gemini:
 	python3 ./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
 
 alphamethyl: pull
-	hugo --config ./config-am.toml
+	hugo --config ./altconf/alphamethyl.toml
 
 package: all
 	if [ ! -d ./pkg ]; then mkdir ./pkg; fi
