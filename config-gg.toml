@@ -94,10 +94,6 @@ ignoreFiles =  [".html$"]
     name   = "About"
     weight = 3
     url    = "/about"
-[[menu.main]]
-    name   = "Web"
-    weight = 4
-    url    = "https://lesbianunix.dev/"
 
 # Social links will be placed in the pages indicated in includeSocial
 [[params.social]]
