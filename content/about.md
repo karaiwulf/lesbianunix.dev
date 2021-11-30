@@ -32,10 +32,13 @@ ASA](https://www.cisco.com/c/en/us/products/security/adaptive-security-appliance
 
 # Let me tinker in your kernel!
 
-Email: [ren@kararou.space](mailto:ren@kararou.space)
+Email: 
+[ren@kararou.space](mailto:ren@kararou.space)
 
-GPG ID: B0BA4EEC0714F8E6 [direct](../ren.asc)
+GPG ID: B0BA4EEC0714F8E6 
+[direct](../ren.asc)
 [keyserver](https://keys.openpgp.org/vks/v1/by-fingerprint/B12F4E6D4979CCF23EA0528AB0BA4EEC0714F8E6)
 
-Matrix: @spicywolf:matrix.kararou.space
+Matrix: 
+[@spicywolf:matrix.kararou.space](https://matrix.to/#/@spicywolf:matrix.kararou.space)
 
