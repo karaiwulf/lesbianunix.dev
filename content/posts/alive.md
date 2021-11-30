@@ -27,4 +27,7 @@ server](https://git.kararou.space/karaiwulf/lesbianunix.dev), and a mirror of
 the mirror on the [cybre.tech git
 server](https://cybre.tech/karaiwulf/lesbianunix.dev).
 
+P.S. I'm on matrix (@spicywolf:matrix.kararou.space), Mastodon
+(@spicywolf@cybre.space) and you can always reach me via
+[email](mailto:ren@kararou.space) (please sign/encrypt all messages!).
 
