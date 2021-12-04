@@ -291,7 +291,7 @@ some egg on the floor while whisking it, then grabbed a towel to clean it up.
 that."  The floor was now clean again.  I dumped the bowl of eggs into the pan,
 then started putting bread in the toaster.
 
-"Yeah, I know," I said, now flipping the eggs, "but do you really thing it's
+"Yeah, I know," I said, now flipping the eggs, "but do you really think it's
 safe to do?"
 
 "It sounds like she will know either way, Yukiko."
