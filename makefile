@@ -12,7 +12,7 @@ html:
 gemini:
 	python3 ./themes/Hugo-2-Gopher-and-Gemini/src/hugo2gg.py
 
-alphamethyl: pull
+alphamethyl: 
 	hugo --config ./altconf/alphamethyl.toml
 
 package: all
