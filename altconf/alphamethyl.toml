@@ -1,7 +1,6 @@
-baseURL = "https://alphamethyl.barr0w.net/~spicywolf/"
+baseURL = "/~spicywolf"
 title = "Lesbian UNIX Developer"
 
-baseurl = "/~spicywolf"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
@@ -70,7 +69,7 @@ ignoreFiles = ["-gg.md$"]
       [[languages.en.menu.main]]
         identifier = "back"
         name = "<~ barr0w"
-        url = "https://alphamethyl.barr0w.net/"
+        url = "/..hacks"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
