@@ -1,5 +1,5 @@
 baseURL = "/~spicywolf"
-title = "Lesbian UNIX Developer"
+title = "Lesbian UNIX Dev"
 
 languageCode = "en-us"
 theme = "terminal"
@@ -62,8 +62,8 @@ ignoreFiles = ["-gg.md$"]
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Lesbian UNIX Dev"
-      logoHomeLink = "/"
+      logoText = "barr0w/~spicywolf"
+      logoHomeLink = "/~spicywolf"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
