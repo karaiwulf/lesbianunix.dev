@@ -108,6 +108,10 @@ ignoreFiles =  [".html$"]
     name   = "Mastodon"
     weight = 3
     url    = "https://cybre.space/@spicywolf"
+[[params.social]]
+    name   = "A Promise"
+    weight = 4
+    url    = "https://www.scribblehub.com/series/386941/a-promise/"
 
 #######################################################
 # You may not need to touch the following configuration

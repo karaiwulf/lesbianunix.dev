@@ -86,4 +86,8 @@ ignoreFiles = ["-gg.md$"]
         identifier = "mastodon"
         name = "Mastodon"
         url = "https://cybre.space/@spicywolf"
+      [[languages.en.menu.main]]
+        identifier = "promise"
+        name = "A Promise"
+        url = "https://www.scribblehub.com/series/386941/a-promise/"
 
