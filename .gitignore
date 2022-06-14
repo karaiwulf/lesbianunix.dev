@@ -1,4 +1,4 @@
 public/
 public-gg/
 pkg/
-
+.hugo_build.lock
