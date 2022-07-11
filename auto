@@ -4,7 +4,6 @@
 while true
 do
     cd /var/www/lesbianunix.dev
-    date # make timestamp
     git fetch origin
     UPSTREAM=${1:-'@{u}'}
     LOCAL=$(git rev-parse @)
@@ -12,9 +11,10 @@ do
     BASE=$(git merge-base @ "$UPSTREAM")
     if [ $LOCAL = $REMOTE ]
     then
-        echo "Up to date"
+        :
     elif [ $LOCAL = $BASE ]
     then
+        date
         make pull
         make clean
         make html
@@ -26,6 +26,6 @@ do
         echo $REMOTE
         echo $BASE
     fi
-    sleep 60
+    sleep 120
 done
 
