@@ -97,7 +97,7 @@ If you aren't particularly familiar with what all of this means, please see `tri
 
 Now that you've created your jump host, we can start creating instances on the 'name' network, and then using ssh to test out how they work.  Really, the big difference here from normal creation is the addition of some special tags.
 
-According to the help text from `triton help ssh`, we should be specifying some tags to be able to ssh to these machines: `triton.ssh.proxy`
+According to the help text from `triton help ssh`, we should be specifying some tags to be able to ssh to these machines: `tritoncli.ssh.proxy`
 
 To populate this tag at creation time, we can use the `-t` option.  The tag will work with the shortid, name, or full uuid of any instance, here I use the name of the jump instance we created earlier:
 
