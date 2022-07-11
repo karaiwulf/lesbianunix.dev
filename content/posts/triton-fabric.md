@@ -84,7 +84,7 @@ e0e2eef9  Haeven   172.17.99.0/24    172.17.99.254    true    1337  false
 
 ### Instances
 
-Right, okay, so you have the VLAN, you have the network, but you won't be able to put instances on the network and be able to login or otherwise access them, due to Triton's `sdc-nat` zone really only giving the network internet access (no port forwarding, or other access!).  So the easiest way to setup access to instances on the inside of a fabric network, is to create a dual-homed jump-host.
+Right, okay, so you have the VLAN, you have the network, but you won't be able to put instances on the network and be able to login or otherwise access them, due to Triton's `sdc-nat` zone really only giving the network internet access (no port forwarding, or other access!).  So the easiest way to setup access to instances on the inside of a fabric network is to create a dual-homed jump-host.
 
 ```
 spicywolf@cremia:~$ triton create -n name-jmp -N public -N name minimal-64 wittl
