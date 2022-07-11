@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-set -x
+#set -x
 while true
 do
     cd /var/www/lesbianunix.dev
