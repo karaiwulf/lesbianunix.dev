@@ -1,30 +1,31 @@
-The sources for the website and gemini capsule at lesbianunix.dev
+# Lesbian UNIX Dev
 
-Contributions will be reviewed, so feel free if you want to write some stuff I
-guess.
+The webspace of a lesbian UNIX developer.
 
-It's hugo sources, so you'll have to have hugo.
+## Prerequisites
 
-To build:
+ * Hugo Static Site Generator
+ * GNU Make
 
-1. Install Hugo
+## Development
 
-2. clone repo
+normal hugo development things.
 
-   `git clone https://github.com/karaiwulf/lesbianunix.dev`
+## Quick Setup on SmartOS
 
-3. update submodules
-
-   `git submodule update --init --recursive`
-
-4. build site
-
-   `hugo # for development add -D`
-
-To add a new post, follow the above instructions, then:
-
-`hugo new posts/url-title.md`
-
-You can replace url-title with whatever you want, it will be the url part.  For
-example: content/posts/asm3.md renders as https://lesbianunix.dev/posts/asm3/
+    # Install Prereqs
+    pkgin up && pkgin -y in gmake git gohugo
+    # clone repo
+    mkdir /var/www
+    git clone https://github.com/karaiwulf/lesbianunix.dev /var/www/lesbianunix.dev
+    # pull submodules
+    cd /var/www/lesbianunix.dev && make pull
+    # install webserver (creates www user)
+    pkgin -y in nginx
+    # point nginx config at the correct location
+    sed -i 's;share/example/nginx/html;/var/www/lesbianunix.dev/public;g' /opt/local/etc/nginx/nginx.conf
+    # enable autoupdate service
+    svccfg import smf.xml
+    # restart nginx
+    svcadm restart nginx
 
