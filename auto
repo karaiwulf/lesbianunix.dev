@@ -1,12 +1,31 @@
 #!/usr/bin/bash
 
+set -x
 while true
 do
     cd /var/www/lesbianunix.dev
-    make pull
-    make clean
-    make html
-    chown -R www:www public
+    date # make timestamp
+    git fetch origin
+    UPSTREAM=${1:-'@{u}'}
+    LOCAL=$(git rev-parse @)
+    REMOTE=$(git rev-parse "$UPSTREAM")
+    BASE=$(git merge-base @ "$UPSTREAM")
+    if [ $LOCAL = $REMOTE ]
+    then
+        echo "Up to date"
+    elif [ $LOCAL = $BASE ]
+    then
+        make pull
+        make clean
+        make html
+        chown -R www:www public
+    else
+        echo "Something weird happened."
+        echo $UPSTREAM
+        echo $LOCAL
+        echo $REMOTE
+        echo $BASE
+    fi
     sleep 300
 done
 
