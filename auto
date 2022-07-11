@@ -26,6 +26,6 @@ do
         echo $REMOTE
         echo $BASE
     fi
-    sleep 100
+    sleep 60
 done
 
