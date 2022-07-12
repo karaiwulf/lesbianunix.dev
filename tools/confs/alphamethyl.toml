@@ -16,7 +16,7 @@ ignoreFiles = ["-gg.md$"]
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 6
+  showMenuItems = 7
 
   # show selector to switch language
   showLanguageSelector = false
@@ -90,4 +90,8 @@ ignoreFiles = ["-gg.md$"]
         identifier = "promise"
         name = "A Promise"
         url = "https://www.scribblehub.com/series/386941/a-promise/"
+      [[languages.en.menu.main]]
+        identifier = "license"
+        name = "License"
+        url = "/license"
 

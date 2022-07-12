@@ -1,0 +1,25 @@
+---
+title: "License"
+date: 2022-07-11T23:28:42-05:00
+draft: false
+---
+
+```rust
+/*
+ * ------------------------------------------------------------
+ * THIS WEBSITE IS LICENSED UNDER THE FOLLOWING TERMS
+ *
+ * this site may not be used for any purpose. be gay, do crime
+ *
+ * THE FOLLOWING MESSAGE IS NOT A LICENSE
+ *
+ * <ren@kararou.space> wrote the content on this website.
+ * by reading this site, you are reading "TRANS RIGHTS".
+ * this site and the content within it is the gay agenda.
+ * if we meet some day, and you think this stuff is worth it,
+ * you can buy me a beer, tea, or something stronger.
+ * -Ren Kararou
+ * ------------------------------------------------------------
+ */
+```
+
